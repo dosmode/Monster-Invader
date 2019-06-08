@@ -23,4 +23,3 @@ screenshot of late game, the aliens on the circles 1,2, and 3 are the three inva
 single player mode
 
 this was a prototype used to get familiar with the unity environment
-# Monster-Invader
